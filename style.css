@@ -41,6 +41,7 @@ body{
     font-family: 'Pacifico', cursive;
     color: #03001C;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
 }
 
 #restart{
